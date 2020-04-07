@@ -1,0 +1,84 @@
+lang.code==ja_JP
+lang.name==日本語（日本）
+lang.sign==公式日本語パッケージ\n(翻訳は必ずしも100%正しいとは限らない。)
+lang.author==我是绵羊Yang_g
+lang.vision==1.0
+lang.mainvision==3.0
+
+lang.cmd.loadstart==
+lang.cmd.loaddone==
+
+lang.page.language==言語
+lang.page.msg.test==これはテスト機能です。過度に依存しないでください。
+lang.page.msg.errorcode==エラー:言語コードと言語ファイル名が一致しません。
+
+t.yes==はい
+t.no==いいえ
+t.ok==確認
+t.cancel==キャンセル
+t.unload==閉じる
+t.copy==コピー
+t.application==アプリケーション
+
+tc.yes==はい(&Y)
+tc.no==いいえ(&N)
+tc.ok==確認(&O)
+tc.cancel==キャンセル(&C)
+tc.unload==閉じる(&U)
+tc.copy==コピー(&C)
+tc.application==アプリケーション(&A)
+
+c.color==色
+c.color.tip==前景色/背景色
+c.img==画
+c.img.tip==画像を挿入
+c.url==Ur
+c.url.tip==ハイパーリンク
+c.list==序
+c.list.tip==無秩序リスト/順序リスト
+
+m.file==ファイル(&F)
+m.file.save==保存(&S)
+m.file.exit==終了(&X)
+
+m.edit==編集(&E)
+m.edit.revoke==取り消す(&Z)
+m.edit.allsel==すべて選択(&A)
+m.edit.del==クリア(&D)
+m.edit.instr==検索(&F)
+m.edit.format_brush==書式ブラシ
+m.edit.fun_convert==変換関数
+m.edit.fun_convert.asc==Asc 字符转ASCII
+m.edit.fun_convert.chr==Chr ASCII转字符
+m.edit.fun_convert.cint==Cint 四舍五入去小数(算法很迷)
+m.edit.fun_convert.fix==Fix 科学计数
+m.edit.fun_convert.hex==Hex 十进制转十六进制
+m.edit.fun_convert.int==Int 取整
+m.edit.fun_convert.oct==Oct 十进制转八进制
+m.edit.fun_mun==数学関数
+m.edit.fun_mun.abs==Abs 绝对值
+m.edit.fun_mun.atn==Atn 反正切
+m.edit.fun_mun.cos==Cos 余弦
+m.edit.fun_mun.exp==Exp 底数
+m.edit.fun_mun.log==Log 自然对数
+m.edit.fun_mun.sgn==Sgn 正负判断
+m.edit.fun_mun.sin==Sin 正弦
+m.edit.fun_mun.sqr==Sqr 平方根
+m.edit.fun_mun.tan==Tan 正切
+m.edit.fun_str==文字列関数
+m.edit.fun_str.len==Len 计算长度(弹窗输出)
+m.edit.fun_str.lenb==LenB 计算字节(弹窗输出)
+m.edit.fun_str.lcase==LCase 转换为小写
+m.edit.fun_str.ucase==Ucase 转换为大写
+m.edit.fun_str.strreverse==StrReverse 翻转
+m.edit.fun_str.hiragana_katakana==平假名转片假名
+m.edit.fun_str.katakana_hiragana==片假名转平假名
+m.edit.now==日付/時間
+
+m.view==ビュー(&V)
+m.code==コード(&C)
+m.template==テンプレート(&T)
+m.tool==工具(&T)
+m.settings==設定(&S)
+m.help==ヘルプ(&H)
+m.debug==デバッグ(&D)

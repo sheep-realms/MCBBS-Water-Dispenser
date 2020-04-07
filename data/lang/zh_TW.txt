@@ -1,0 +1,84 @@
+lang.code==zh_TW
+lang.name==正體中文（台灣）
+lang.sign==官方中文語言包
+lang.author==我是綿羊Yang_g
+lang.vision==1.0
+lang.mainvision==3.0
+
+lang.cmd.loadstart==
+lang.cmd.loaddone==
+
+lang.page.language==語言/language
+lang.page.msg.test==這是一個測試功能！請勿過度依賴！
+lang.page.msg.errorcode==錯誤：語言程式碼與語言檔名不符！
+
+t.yes==是
+t.no==否
+t.ok==確認
+t.cancel==取消
+t.unload==關閉
+t.copy==複製
+t.application==應用
+
+tc.yes==是(&Y)
+tc.no==否(&N)
+tc.ok==确认(&O)
+tc.cancel==取消(&C)
+tc.unload==關閉(&U)
+tc.copy==複製(&C)
+tc.application==應用(&A)
+
+c.color==顏
+c.color.tip==前景色/背景色
+c.img==圖
+c.img.tip==插入圖片
+c.url==鏈
+c.url.tip==超鏈接
+c.list==序
+c.list.tip==無序列表/有序列表
+
+m.file==文件(&F)
+m.file.save==保存(&S)
+m.file.exit==退出(&X)
+
+m.edit==編輯(&E)
+m.edit.revoke==撤銷(&Z)
+m.edit.allsel==全選(&A)
+m.edit.del==清空(&D)
+m.edit.instr==查找(&F)
+m.edit.format_brush==格式刷
+m.edit.fun_convert==轉換函數
+m.edit.fun_convert.asc==Asc 字元轉ASCII
+m.edit.fun_convert.chr==Chr ASCII轉字元
+m.edit.fun_convert.cint==Cint 四捨五入去小數(算灋很奇怪)
+m.edit.fun_convert.fix==Fix 科學計數
+m.edit.fun_convert.hex==Hex 十進位轉十六進位
+m.edit.fun_convert.int==Int 取整
+m.edit.fun_convert.oct==Oct 十進位轉八進位
+m.edit.fun_mun==數學函數
+m.edit.fun_mun.abs==Abs 絕對值
+m.edit.fun_mun.atn==Atn 反正切
+m.edit.fun_mun.cos==Cos 余弦
+m.edit.fun_mun.exp==Exp 底數
+m.edit.fun_mun.log==Log 自然對數
+m.edit.fun_mun.sgn==Sgn 正負判斷
+m.edit.fun_mun.sin==Sin 正弦
+m.edit.fun_mun.sqr==Sqr 平方根
+m.edit.fun_mun.tan==Tan 正切
+m.edit.fun_str==字串函數
+m.edit.fun_str.len==Len 計算長度(彈窗輸出)
+m.edit.fun_str.lenb==LenB 計算位元組(弹窗输出)
+m.edit.fun_str.lcase==LCase 轉換為小寫
+m.edit.fun_str.ucase==Ucase 轉換為大寫
+m.edit.fun_str.strreverse==StrReverse 翻轉
+m.edit.fun_str.hiragana_katakana==平假名轉片假名
+m.edit.fun_str.katakana_hiragana==片假名轉平假名
+m.edit.now==日期/時間
+
+m.view==視圖(&V)
+m.code==程式碼(&C)
+m.template==範本(&T)
+m.tool==工具(&T)
+m.settings==設定(&S)
+m.help==幫助(&H)
+m.debug==調試(&D)

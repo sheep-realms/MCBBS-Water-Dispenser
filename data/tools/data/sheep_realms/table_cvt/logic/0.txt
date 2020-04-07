@@ -1,0 +1,4 @@
+print [table]__SPR:/BR__[tr][td]
+replace , [/td][td]
+replace __SPR:/BR__ [/td][/tr]__SPR:/BR__[tr][td]
+print [/td][/tr]__SPR:/BR__[/table]

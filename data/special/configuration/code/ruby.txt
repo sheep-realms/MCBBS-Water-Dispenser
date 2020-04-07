@@ -1,0 +1,4 @@
+###spr:bbcode###
+##type##default
+##1##ÕıÎÄ
+##2##×¢ÊÍ

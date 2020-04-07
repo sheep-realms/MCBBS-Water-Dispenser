@@ -1,0 +1,30 @@
+@name:官方数据包-领取金锭-庆祝升级
+@version:1.0
+@author:SHEEP_REALMS
+
+恭喜升级！！！[:...:]
+恭喜__SPR:VALUE__级 [:...:]
+dalao牛逼！恭喜__SPR:VALUE__级 [:cowry:]
+恭喜升级，谢锭！ [:cowry:]
+恭喜__SPR:VALUE__级，下一个目标：__SPR:VALUE+1__级 [:...:]
+谢锭 恭喜__SPR:VALUE__级
+恭喜大佬__SPR:VALUE__级
+恭喜你__SPR:VALUE__级啦
+恭喜__SPR:VALUE__级啊，我也要加快速度了呢
+恭喜大佬__SPR:VALUE__级QWQ
+恭喜__SPR:VALUE__级大佬
+__SPR:VALUE__级了，nbnbnb [:...:]
+我来了我来领锭了(~_~;)，恭喜__SPR:VALUE__级
+恭喜__SPR:VALUE__级啦
+恭喜楼主__SPR:VALUE__级
+恭喜大佬升级！
+恭喜大佬__SPR:VALUE__级了hhhh
+继续加油啊，再战__SPR:VALUE+1__级
+恭喜__SPR:VALUE__级~ 加油继续水吧！
+__SPR:VALUE__级了，加油继续到__SPR:VALUE+1__级
+恭喜__SPR:VALUE__级，再努努力很快就会__SPR:VALUE+1__级的哦
+恭喜升级，感谢大佬XD
+恭喜__SPR:VALUE__级，感谢大佬XD
+恭喜大佬，太强了
+谢谢大佬，恭喜大佬，恭喜__SPR:VALUE__级
+恭喜__SPR:VALUE__级，感谢大佬发锭

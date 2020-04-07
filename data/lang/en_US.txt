@@ -1,0 +1,84 @@
+lang.code==en_US
+lang.name==English (US)
+lang.sign==Official english language pack.\n(Translation is not 100% correct.)
+lang.author==我是绵羊Yang_g
+lang.vision==1.0
+lang.mainvision==3.0
+
+lang.cmd.loadstart==
+lang.cmd.loaddone==
+
+lang.page.language==Language
+lang.page.msg.test==This is test function! Don't depend too much!
+lang.page.msg.errorcode==Error: The language code does not match the language file name!
+
+t.yes==Yes
+t.no==No
+t.ok==OK
+t.cancel==Cancel
+t.unload==Unload
+t.copy==Copy
+t.application==Application
+
+tc.yes==&Yes
+tc.no==&No
+tc.ok==&OK
+tc.cancel==&Cancel
+tc.unload==&Unload
+tc.copy==&Copy
+tc.application==&Application
+
+c.color==C
+c.color.tip==ForeColor/BackColor
+c.img==P
+c.img.tip==Picture
+c.url==Ur
+c.url.tip==URL
+c.list==Li
+c.list.tip==无序列表/有序列表
+
+m.file==&File
+m.file.save==&Save
+m.file.exit==E&xit
+
+m.edit==&Edit
+m.edit.revoke==Revoke(&Z)
+m.edit.allsel==Select &All
+m.edit.del==&Delect
+m.edit.instr==&Find
+m.edit.format_brush==Format Brush
+m.edit.fun_convert==Convert Function
+m.edit.fun_convert.asc==Asc 字符转ASCII
+m.edit.fun_convert.chr==Chr ASCII转字符
+m.edit.fun_convert.cint==Cint 四舍五入去小数(算法很迷)
+m.edit.fun_convert.fix==Fix 科学计数
+m.edit.fun_convert.hex==Hex 十进制转十六进制
+m.edit.fun_convert.int==Int 取整
+m.edit.fun_convert.oct==Oct 十进制转八进制
+m.edit.fun_mun==Mathematics Function
+m.edit.fun_mun.abs==Abs 绝对值
+m.edit.fun_mun.atn==Atn 反正切
+m.edit.fun_mun.cos==Cos 余弦
+m.edit.fun_mun.exp==Exp 底数
+m.edit.fun_mun.log==Log 自然对数
+m.edit.fun_mun.sgn==Sgn 正负判断
+m.edit.fun_mun.sin==Sin 正弦
+m.edit.fun_mun.sqr==Sqr 平方根
+m.edit.fun_mun.tan==Tan 正切
+m.edit.fun_str==String Function
+m.edit.fun_str.len==Len 计算长度(弹窗输出)
+m.edit.fun_str.lenb==LenB 计算字节(弹窗输出)
+m.edit.fun_str.lcase==LCase 转换为小写
+m.edit.fun_str.ucase==Ucase 转换为大写
+m.edit.fun_str.strreverse==StrReverse 翻转
+m.edit.fun_str.hiragana_katakana==平假名转片假名
+m.edit.fun_str.katakana_hiragana==片假名转平假名
+m.edit.now==Date/Time
+
+m.view==&Viwe
+m.code==&code
+m.template==&Template
+m.tool==&Tools
+m.settings==&Settings
+m.help==&Help
+m.debug==&Debug

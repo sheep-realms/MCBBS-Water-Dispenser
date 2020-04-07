@@ -1,0 +1,84 @@
+lang.code==zh_CN
+lang.name==简体中文（中国）
+lang.sign==官方中文语言包
+lang.author==我是绵羊Yang_g
+lang.vision==1.0
+lang.mainvision==3.0
+
+lang.cmd.loadstart==
+lang.cmd.loaddone==
+
+lang.page.language==语言/language
+lang.page.msg.test==这是一个测试功能！请勿过度依赖！
+lang.page.msg.errorcode==错误：语言代码与语言文件名不符！
+
+t.yes==是
+t.no==否
+t.ok==确认
+t.cancel==取消
+t.unload==关闭
+t.copy==复制
+t.application==应用
+
+tc.yes==是(&Y)
+tc.no==否(&N)
+tc.ok==确认(&O)
+tc.cancel==取消(&C)
+tc.unload==关闭(&U)
+tc.copy==复制(&C)
+tc.application==应用(&A)
+
+c.color==颜
+c.color.tip==前景色/背景色
+c.img==图
+c.img.tip==插入图片
+c.url==链
+c.url.tip==超链接
+c.list==序
+c.list.tip==无序列表/有序列表
+
+m.file==文件(&F)
+m.file.save==保存(&S)
+m.file.exit==退出(&X)
+
+m.edit==编辑(&E)
+m.edit.revoke==撤销(&Z)
+m.edit.allsel==全选(&A)
+m.edit.del==清空(&D)
+m.edit.instr==查找(&F)
+m.edit.format_brush==格式刷
+m.edit.fun_convert==转换函数
+m.edit.fun_convert.asc==Asc 字符转ASCII
+m.edit.fun_convert.chr==Chr ASCII转字符
+m.edit.fun_convert.cint==Cint 四舍五入去小数(算法很迷)
+m.edit.fun_convert.fix==Fix 科学计数
+m.edit.fun_convert.hex==Hex 十进制转十六进制
+m.edit.fun_convert.int==Int 取整
+m.edit.fun_convert.oct==Oct 十进制转八进制
+m.edit.fun_mun==数学函数
+m.edit.fun_mun.abs==Abs 绝对值
+m.edit.fun_mun.atn==Atn 反正切
+m.edit.fun_mun.cos==Cos 余弦
+m.edit.fun_mun.exp==Exp 底数
+m.edit.fun_mun.log==Log 自然对数
+m.edit.fun_mun.sgn==Sgn 正负判断
+m.edit.fun_mun.sin==Sin 正弦
+m.edit.fun_mun.sqr==Sqr 平方根
+m.edit.fun_mun.tan==Tan 正切
+m.edit.fun_str==字符串函数
+m.edit.fun_str.len==Len 计算长度(弹窗输出)
+m.edit.fun_str.lenb==LenB 计算字节(弹窗输出)
+m.edit.fun_str.lcase==LCase 转换为小写
+m.edit.fun_str.ucase==Ucase 转换为大写
+m.edit.fun_str.strreverse==StrReverse 翻转
+m.edit.fun_str.hiragana_katakana==平假名转片假名
+m.edit.fun_str.katakana_hiragana==片假名转平假名
+m.edit.now==日期/时间
+
+m.view==视图(&V)
+m.code==代码(&C)
+m.template==模板(&T)
+m.tool==工具(&T)
+m.settings==设置(&S)
+m.help==帮助(&H)
+m.debug==调试(&D)
